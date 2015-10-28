@@ -61,5 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="Scripts\Script1.sql" />
+    <Build Include="Scripts\SP.sql" />
   </ItemGroup>
 </Project>
