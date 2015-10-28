@@ -1,2 +1,4 @@
 ﻿SELECT @@VERSION;
 GO
+
+-- COMMENT
